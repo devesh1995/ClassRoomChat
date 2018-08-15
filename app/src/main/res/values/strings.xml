@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ClassRoom Chat</string>
+    <string name="develoved_by">Develoved By</string>
+    <string name="developeggfggfdgfdgdfd_by">Developeggfggfdgfdgdfd By</string>
+    <string name="devesh">devesh</string>
+    <string name="developed_by">Developed By</string>
+
+    <string name="title_activity_register_page">RegisterPage</string>
+    <string name="click_here_to_register">Click here to register</string>
+
+
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="logout">LogOut</string>
+
+    <string name="click_here_to_login">Click here to login</string>
+
+    <string name="password">Password</string>
+    <string name="email_id">Email Id</string>
+    <string name="register">Register</string>
+    <string name="class_room_chat_app">Class Room Chat</string>
+    <string name="todo">TODO</string>
+    <string name="write_a_message">Write a message...</string>
+    <string name="no_users_found">No users found!</string>
+    <string name="rohan_gaurang_benjamin"><![CDATA[Rohan,Gaurang & Benjamin]]></string>
+</resources>

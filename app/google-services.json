@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "12158739593",
+    "firebase_url": "https://classroomchat2-815d5.firebaseio.com",
+    "project_id": "classroomchat2-815d5",
+    "storage_bucket": "classroomchat2-815d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12158739593:android:3ebbe729f0518ac8",
+        "android_client_info": {
+          "package_name": "com.deveshkumargmail.classroomchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12158739593-ojk0tef65c0vm76rs95972tpott57kdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deveshkumargmail.classroomchat",
+            "certificate_hash": "dcde09986f8e1852caae757e6a3089bff5b6419b"
+          }
+        },
+        {
+          "client_id": "12158739593-85a29el56394dhegf5tfkmtouq3f2r1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXB0yOrMK_Hdx3G1nuw23RO-422u3etd8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12158739593-85a29el56394dhegf5tfkmtouq3f2r1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
